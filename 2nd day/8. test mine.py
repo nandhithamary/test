@@ -9,4 +9,3 @@ class Circle(shape):
 
 c=Circle(int(input("enter a number: ")))       
        
-    

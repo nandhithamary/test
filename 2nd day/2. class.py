@@ -13,5 +13,5 @@ p1=Person("Alice",25)
 p2=Person("Bob",30) 
 
 print(p1)    #person(name=alice,age=25)
-print(p1.great())    #Hi,i'm alice and i'm 25 years old.
+print(p1.greet())    #Hi,i'm alice and i'm 25 years old.
 print(p2.name,p2.age)
