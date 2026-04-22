@@ -1,0 +1,8 @@
+print("hello world")
+a=("test")
+print("a")
+print(a)
+b=(20)
+print(b)
+c=(20.5)
+print(c)
